@@ -1,0 +1,24 @@
+.box {
+    width: 100%;
+    background-color: #000;
+    height: 100px;
+    padding-left: 20px;
+    padding-top: 15px;
+
+}
+body {
+    margin: 0px;
+}
+.line>li {
+    display: inline-block;
+}
+.d-inline {
+    display: inline-block;
+}
+
+
+h1 {
+    font-size: xx-large;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
